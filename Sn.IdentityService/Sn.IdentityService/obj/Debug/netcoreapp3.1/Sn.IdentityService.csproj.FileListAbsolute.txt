@@ -1,0 +1,9 @@
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\obj\Debug\netcoreapp3.1\Sn.IdentityService.csprojAssemblyReference.cache
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\obj\Debug\netcoreapp3.1\Sn.IdentityService.AssemblyInfoInputs.cache
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\obj\Debug\netcoreapp3.1\Sn.IdentityService.AssemblyInfo.cs
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\obj\Debug\netcoreapp3.1\Sn.IdentityService.RazorTargetAssemblyInfo.cache
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\obj\Debug\netcoreapp3.1\staticwebassets\Sn.IdentityService.StaticWebAssets.Manifest.cache
+C:\Users\xiao0\source\repos\Sn.IdentityService\Sn.IdentityService\obj\Debug\netcoreapp3.1\staticwebassets\Sn.IdentityService.StaticWebAssets.xml
