@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Sn.IdentityService",
+    "\\Sn.IdentityService\\Sn.IdentityService",
+    "\\Sn.IdentityService\\Sn.IdentityService\\Controllers",
+    "\\Sn.IdentityService\\Sn.IdentityService\\Identity"
+  ],
+  "SelectedNode": "\\Sn.IdentityService\\Sn.IdentityService\\Identity\\IdentityBasicAuthentication.cs",
+  "PreviewInSolutionExplorer": false
+}
